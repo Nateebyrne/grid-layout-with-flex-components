@@ -2,6 +2,8 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     color: #222;
     margin: 0 auto;
+    max-width: 850px;
+    /* added max width if assignment would like page to stay within the example provided */
   }
   
   .emoji {
