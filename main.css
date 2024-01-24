@@ -12,8 +12,7 @@ body {
     padding: 1rem;
     display:flex;
     flex-direction: column;
-    align-items: stretch;
-    justify-content: space-between;
+    justify-content: space-evenly;
   }
   
   .emoji h2 {
